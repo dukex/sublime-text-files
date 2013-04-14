@@ -1,0 +1,18 @@
+[submodule "Theme - Soda"]
+	path = Theme - Soda
+	url = https://github.com/buymeasoda/soda-theme.git
+[submodule "ColorPick"]
+	path = ColorPick
+	url = git://github.com/jnordberg/sublime-colorpick.git
+[submodule "ApplySyntax"]
+	path = ApplySyntax
+	url = git://github.com/facelessuser/ApplySyntax.git
+[submodule "IndentGuides"]
+	path = IndentGuides
+	url = git://github.com/SublimeText/IndentGuides.git
+[submodule "Sass"]
+	path = Sass
+	url = git@github.com:nathos/sass-textmate-bundle.git
+[submodule "EspressotmTheme"]
+	path = EspressotmTheme
+	url = git@github.com:mkhl/espresso-tutti-colori.tmtheme.git

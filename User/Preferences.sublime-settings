@@ -1,7 +1,9 @@
 {
 	"bold_folder_labels": true,
+	"color_pick_upcase": true,
+	"color_scheme": "Packages/EspressotmTheme/Espresso.tmTheme",
 	"drag_text": false,
-	"draw_white_space": "all",
+	//"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
 	"font_size": 15.0,
@@ -10,16 +12,16 @@
 	"ignored_packages":
 	[
 	],
-	"new_window_settings":
-	{
+	"new_window_settings":{
 		"show_minimap": false
 	},
-	"rulers":
-	[
+	"theme": "Soda Light.sublime-theme",
+	"rulers":[
 		80
 	],
 	"show_full_path": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"soda_classic_tabs": true
 }
